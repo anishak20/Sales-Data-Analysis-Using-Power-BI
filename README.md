@@ -25,7 +25,7 @@ The dashboard provides a comprehensive view of sales performance across products
 - Comparison of **Sales, Profit, and Quantity** across user-selected periods  
 - Average discount analysis by category  
 - Total number of orders  
-- Interactive order-level table with filters (**Product, Date, Customer, Promotion**)  
+- Interactive order-level table with visual filters (**Product, Date, Customer ID, Promotion Categories**)  
 - **City-wise sales analysis**
 
 ---
