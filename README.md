@@ -45,15 +45,4 @@ The dashboard provides a comprehensive view of sales performance across products
 
 ---
 
-##  Insights
-- Identified top-performing and low-performing products  
-- Observed seasonal and time-based sales patterns  
-- Evaluated profitability across different segments  
-- Enabled detailed and interactive data exploration  
 
----
-
-
-
-## 📌 Conclusion
-This project demonstrates how **Power BI, data modeling, and DAX** can be used to transform raw sales data into meaningful insights through interactive dashboards.
